@@ -1,6 +1,6 @@
 # Code_Forces_Beautiful_Matrix
-## time limit per test2 seconds
-## memory limit per test256 megabytes
+## time limit per test: 2 seconds
+## memory limit per test: 256 megabytes
 ## input: standard input
 ## output: standard output
 
